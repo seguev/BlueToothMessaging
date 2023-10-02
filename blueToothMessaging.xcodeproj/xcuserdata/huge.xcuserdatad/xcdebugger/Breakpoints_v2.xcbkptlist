@@ -14,8 +14,8 @@
             filePath = "blueToothMessaging/RecievingViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "55"
-            endingLineNumber = "55"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
             landmarkName = "checkIfAlreadyConnected()"
             landmarkType = "7">
             <Actions>
@@ -71,8 +71,8 @@
             filePath = "blueToothMessaging/RecievingViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "72"
-            endingLineNumber = "72"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
             landmarkName = "centralManager(_:didConnect:)"
             landmarkType = "7">
             <Actions>
@@ -128,8 +128,8 @@
             filePath = "blueToothMessaging/RecievingViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "127"
-            endingLineNumber = "127"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
             landmarkName = "peripheral(_:didUpdateValueFor:error:)"
             landmarkType = "7">
             <Actions>
@@ -200,8 +200,8 @@
             filePath = "blueToothMessaging/RecievingViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "114"
-            endingLineNumber = "114"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
             landmarkName = "peripheral(_:didDiscoverCharacteristicsFor:error:)"
             landmarkType = "7">
             <Actions>
@@ -287,8 +287,8 @@
             filePath = "blueToothMessaging/RecievingViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "99"
-            endingLineNumber = "99"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
             landmarkName = "peripheral(_:didDiscoverServices:)"
             landmarkType = "7">
             <Actions>
@@ -344,8 +344,8 @@
             filePath = "blueToothMessaging/RecievingViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "119"
-            endingLineNumber = "119"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
             landmarkName = "peripheral(_:didDiscoverCharacteristicsFor:error:)"
             landmarkType = "7">
             <Actions>
@@ -401,8 +401,8 @@
             filePath = "blueToothMessaging/RecievingViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "144"
-            endingLineNumber = "144"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
             landmarkName = "peripheral(_:didUpdateNotificationStateFor:error:)"
             landmarkType = "7">
             <Actions>
@@ -426,8 +426,8 @@
             filePath = "blueToothMessaging/RecievingViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "44"
-            endingLineNumber = "44"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
             landmarkName = "centralManagerDidUpdateState(_:)"
             landmarkType = "7">
             <Actions>
@@ -451,8 +451,8 @@
             filePath = "blueToothMessaging/RecievingViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "48"
-            endingLineNumber = "48"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
             landmarkName = "centralManagerDidUpdateState(_:)"
             landmarkType = "7">
             <Actions>
@@ -508,8 +508,8 @@
             filePath = "blueToothMessaging/RecievingViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "58"
-            endingLineNumber = "58"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
             landmarkName = "checkIfAlreadyConnected()"
             landmarkType = "7">
             <Actions>

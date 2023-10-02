@@ -10,6 +10,8 @@ import CoreBluetooth
 
 class RecievingViewController: UIViewController {
     
+    @IBOutlet weak var connectedLabel: UILabel!
+    
     var connectedPeripheral: CBPeripheral?
 
     var centralManager: CBCentralManager!
@@ -116,6 +118,7 @@ extension RecievingViewController: CBPeripheralDelegate {
         if let characteristic = service.characteristics?.filter({$0.uuid==TransferService.characteristicUUID}).last {
             print("Success!")
             view.backgroundColor = .green
+            self.connectedLabel.isHidden = false
             peripheral.setNotifyValue(true, for: characteristic)
         } else {
             fatalError("Found characteristic isnt matching")
