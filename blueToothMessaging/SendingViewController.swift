@@ -9,7 +9,9 @@ import UIKit
 import CoreBluetooth
 
 class SendingViewController: UIViewController {
-
+    
+    @IBOutlet weak var infoLabel: UILabel!
+    
     var peripheralManager: CBPeripheralManager!
     
     let alertManager = AlertManager()
@@ -73,7 +75,11 @@ class SendingViewController: UIViewController {
         let messageLength = recievedData.count
         print("recieved data length:", messageLength)
         
-        guard let maximumLength = connectedCentral?.maximumUpdateValueLength else {fatalError("Hah?")}
+        guard let maximumLength = connectedCentral?.maximumUpdateValueLength else {
+            self.infoLabel.text = "Nobody's connected..."
+            return
+        }
+        
         print("maximumUpdateValueLength:",maximumLength)
         
         let isOneChunk = messageLength <= maximumLength
@@ -128,6 +134,8 @@ extension SendingViewController: CBPeripheralManagerDelegate {
     
     func peripheralManager(_ peripheral: CBPeripheralManager, central: CBCentral, didSubscribeTo characteristic: CBCharacteristic) {
         print("Someone is listening! 🫨")
+        self.view.backgroundColor = .green
+        infoLabel.text = "Someone is listening... \nTap anywhere 😎"
         connectedCentral = central
         
     }

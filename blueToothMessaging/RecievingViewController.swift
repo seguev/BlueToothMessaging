@@ -118,7 +118,7 @@ extension RecievingViewController: CBPeripheralDelegate {
         if let characteristic = service.characteristics?.filter({$0.uuid==TransferService.characteristicUUID}).last {
             print("Success!")
             view.backgroundColor = .green
-            self.connectedLabel.isHidden = false
+            self.connectedLabel.text = "Connected 🥳\n Waiting for messages"
             peripheral.setNotifyValue(true, for: characteristic)
         } else {
             fatalError("Found characteristic isnt matching")
