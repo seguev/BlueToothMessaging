@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FCCA7AE9-C652-4E14-B5CD-6FF10D919CF8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF8A5599-A787-438A-9C4B-CD3559641994"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "Yes"
+            filePath = "blueToothMessaging/RecievingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "checkIfAlreadyConnected()"
+            landmarkType = "7">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.Log">
+                  <ActionContent
+                     message = "Found existing connection"
+                     conveyanceType = "0">
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+            <Locations>
+               <Location
+                  uuid = "AF8A5599-A787-438A-9C4B-CD3559641994 - 50cca5a1f59d32f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "blueToothMessaging.RecievingViewController.checkIfAlreadyConnected() -&gt; Swift.Bool"
+                  moduleName = "blueToothMessaging"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huge/Documents/Swift%20Extra%20Knowledge/blueToothMessaging/blueToothMessaging/RecievingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "424">
+               </Location>
+               <Location
+                  uuid = "AF8A5599-A787-438A-9C4B-CD3559641994 - 50cca5a1f59d32f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "blueToothMessaging.RecievingViewController.checkIfAlreadyConnected() -&gt; Swift.Bool"
+                  moduleName = "blueToothMessaging"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huge/Documents/Swift%20Extra%20Knowledge/blueToothMessaging/blueToothMessaging/RecievingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "552">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FBC43E23-B1D4-4F22-8C68-530580973019"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "Yes"
+            filePath = "blueToothMessaging/RecievingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "centralManager(_:didConnect:)"
+            landmarkType = "7">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.Log">
+                  <ActionContent
+                     message = "connected"
+                     conveyanceType = "0">
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+            <Locations>
+               <Location
+                  uuid = "FBC43E23-B1D4-4F22-8C68-530580973019 - 651b849b87bfe504"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "blueToothMessaging.RecievingViewController.centralManager(_: __C.CBCentralManager, didConnect: __C.CBPeripheral) -&gt; ()"
+                  moduleName = "blueToothMessaging"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huge/Documents/Swift%20Extra%20Knowledge/blueToothMessaging/blueToothMessaging/RecievingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "FBC43E23-B1D4-4F22-8C68-530580973019 - 651b849b87bfe4e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "blueToothMessaging.RecievingViewController.centralManager(_: __C.CBCentralManager, didConnect: __C.CBPeripheral) -&gt; ()"
+                  moduleName = "blueToothMessaging"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huge/Documents/Swift%20Extra%20Knowledge/blueToothMessaging/blueToothMessaging/RecievingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B446B95-8679-46F0-8A2A-3921F46C66B9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "Yes"
+            filePath = "blueToothMessaging/RecievingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "peripheral(_:didUpdateValueFor:error:)"
+            landmarkType = "7">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.Log">
+                  <ActionContent
+                     message = "got something!"
+                     conveyanceType = "0">
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+            <Locations>
+               <Location
+                  uuid = "9B446B95-8679-46F0-8A2A-3921F46C66B9 - e4d062321a56d207"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "blueToothMessaging.RecievingViewController.peripheral(_: __C.CBPeripheral, didUpdateValueFor: __C.CBCharacteristic, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "blueToothMessaging"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huge/Documents/Swift%20Extra%20Knowledge/blueToothMessaging/blueToothMessaging/RecievingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "672">
+               </Location>
+               <Location
+                  uuid = "9B446B95-8679-46F0-8A2A-3921F46C66B9 - e4d062321a56d207"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "blueToothMessaging.RecievingViewController.peripheral(_: __C.CBPeripheral, didUpdateValueFor: __C.CBCharacteristic, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "blueToothMessaging"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huge/Documents/Swift%20Extra%20Knowledge/blueToothMessaging/blueToothMessaging/RecievingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "1696">
+               </Location>
+               <Location
+                  uuid = "9B446B95-8679-46F0-8A2A-3921F46C66B9 - e4d062321a56dde6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "blueToothMessaging.RecievingViewController.peripheral(_: __C.CBPeripheral, didUpdateValueFor: __C.CBCharacteristic, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "blueToothMessaging"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huge/Documents/Swift%20Extra%20Knowledge/blueToothMessaging/blueToothMessaging/RecievingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "364">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D61F3A18-2ABE-427C-898E-808BDFCBC30B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "Yes"
+            filePath = "blueToothMessaging/RecievingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "peripheral(_:didDiscoverCharacteristicsFor:error:)"
+            landmarkType = "7">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.Log">
+                  <ActionContent
+                     message = "Found matching characteristic"
+                     conveyanceType = "0">
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+            <Locations>
+               <Location
+                  uuid = "D61F3A18-2ABE-427C-898E-808BDFCBC30B - e55a18dd0b58ef2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "blueToothMessaging.RecievingViewController.peripheral(_: __C.CBPeripheral, didDiscoverCharacteristicsFor: __C.CBService, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "blueToothMessaging"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huge/Documents/Swift%20Extra%20Knowledge/blueToothMessaging/blueToothMessaging/RecievingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "444">
+               </Location>
+               <Location
+                  uuid = "D61F3A18-2ABE-427C-898E-808BDFCBC30B - 28a1b3c516d7e6e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.CBCharacteristic) -&gt; Swift.Bool in blueToothMessaging.RecievingViewController.peripheral(_: __C.CBPeripheral, didDiscoverCharacteristicsFor: __C.CBService, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "blueToothMessaging"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huge/Documents/Swift%20Extra%20Knowledge/blueToothMessaging/blueToothMessaging/RecievingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "D61F3A18-2ABE-427C-898E-808BDFCBC30B - e55a18dd0b58efcd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "blueToothMessaging.RecievingViewController.peripheral(_: __C.CBPeripheral, didDiscoverCharacteristicsFor: __C.CBService, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "blueToothMessaging"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huge/Documents/Swift%20Extra%20Knowledge/blueToothMessaging/blueToothMessaging/RecievingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "444">
+               </Location>
+               <Location
+                  uuid = "D61F3A18-2ABE-427C-898E-808BDFCBC30B - e55a18dd0b58efcd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "blueToothMessaging.RecievingViewController.peripheral(_: __C.CBPeripheral, didDiscoverCharacteristicsFor: __C.CBService, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "blueToothMessaging"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huge/Documents/Swift%20Extra%20Knowledge/blueToothMessaging/blueToothMessaging/RecievingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "460">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C0AD31F9-4073-4425-9E30-216CB420C1B6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "Yes"
+            filePath = "blueToothMessaging/RecievingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "peripheral(_:didDiscoverServices:)"
+            landmarkType = "7">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.Log">
+                  <ActionContent
+                     message = "Found mathcing services"
+                     conveyanceType = "0">
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+            <Locations>
+               <Location
+                  uuid = "C0AD31F9-4073-4425-9E30-216CB420C1B6 - df5ade890b99079e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "blueToothMessaging.RecievingViewController.peripheral(_: __C.CBPeripheral, didDiscoverServices: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "blueToothMessaging"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huge/Documents/Swift%20Extra%20Knowledge/blueToothMessaging/blueToothMessaging/RecievingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "408">
+               </Location>
+               <Location
+                  uuid = "C0AD31F9-4073-4425-9E30-216CB420C1B6 - df5ade890b99077f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "blueToothMessaging.RecievingViewController.peripheral(_: __C.CBPeripheral, didDiscoverServices: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "blueToothMessaging"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huge/Documents/Swift%20Extra%20Knowledge/blueToothMessaging/blueToothMessaging/RecievingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "408">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "017F96F8-D704-4D6C-8B0E-2FC82D67A235"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "Yes"
+            filePath = "blueToothMessaging/RecievingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "peripheral(_:didDiscoverCharacteristicsFor:error:)"
+            landmarkType = "7">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.Log">
+                  <ActionContent
+                     message = "Filtered one specific characteristic"
+                     conveyanceType = "0">
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+            <Locations>
+               <Location
+                  uuid = "017F96F8-D704-4D6C-8B0E-2FC82D67A235 - e55a18dd0b58efa8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "blueToothMessaging.RecievingViewController.peripheral(_: __C.CBPeripheral, didDiscoverCharacteristicsFor: __C.CBService, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "blueToothMessaging"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huge/Documents/Swift%20Extra%20Knowledge/blueToothMessaging/blueToothMessaging/RecievingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "908">
+               </Location>
+               <Location
+                  uuid = "017F96F8-D704-4D6C-8B0E-2FC82D67A235 - e55a18dd0b58efa8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "blueToothMessaging.RecievingViewController.peripheral(_: __C.CBPeripheral, didDiscoverCharacteristicsFor: __C.CBService, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "blueToothMessaging"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huge/Documents/Swift%20Extra%20Knowledge/blueToothMessaging/blueToothMessaging/RecievingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "1252">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C1EA3A0-E62D-40F6-B7D0-2A7609088DCB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "Yes"
+            filePath = "blueToothMessaging/RecievingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "peripheral(_:didUpdateNotificationStateFor:error:)"
+            landmarkType = "7">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.Log">
+                  <ActionContent
+                     message = "Set observer"
+                     conveyanceType = "0">
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E14E637F-51F3-419B-9047-00BBED36692C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "Yes"
+            filePath = "blueToothMessaging/RecievingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "centralManagerDidUpdateState(_:)"
+            landmarkType = "7">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.Log">
+                  <ActionContent
+                     message = "started scanning"
+                     conveyanceType = "0">
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D13208E9-E310-4AC3-94E4-F5033ADEF720"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "Yes"
+            filePath = "blueToothMessaging/RecievingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "centralManagerDidUpdateState(_:)"
+            landmarkType = "7">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.Log">
+                  <ActionContent
+                     message = "And awaaayy we goo......"
+                     conveyanceType = "0">
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+            <Locations>
+               <Location
+                  uuid = "D13208E9-E310-4AC3-94E4-F5033ADEF720 - d210eca82621f911"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "blueToothMessaging.RecievingViewController.centralManagerDidUpdateState(__C.CBCentralManager) -&gt; ()"
+                  moduleName = "blueToothMessaging"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huge/Documents/Swift%20Extra%20Knowledge/blueToothMessaging/blueToothMessaging/RecievingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "612">
+               </Location>
+               <Location
+                  uuid = "D13208E9-E310-4AC3-94E4-F5033ADEF720 - d210eca82621f932"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "blueToothMessaging.RecievingViewController.centralManagerDidUpdateState(__C.CBCentralManager) -&gt; ()"
+                  moduleName = "blueToothMessaging"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huge/Documents/Swift%20Extra%20Knowledge/blueToothMessaging/blueToothMessaging/RecievingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "612">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D1794C4-C528-4088-8A0C-3C34340A1382"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "Yes"
+            filePath = "blueToothMessaging/RecievingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "checkIfAlreadyConnected()"
+            landmarkType = "7">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.Log">
+                  <ActionContent
+                     message = "no conected peripherals"
+                     conveyanceType = "0">
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+            <Locations>
+               <Location
+                  uuid = "9D1794C4-C528-4088-8A0C-3C34340A1382 - 50cca5a1f59d337c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "blueToothMessaging.RecievingViewController.checkIfAlreadyConnected() -&gt; Swift.Bool"
+                  moduleName = "blueToothMessaging"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huge/Documents/Swift%20Extra%20Knowledge/blueToothMessaging/blueToothMessaging/RecievingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "756">
+               </Location>
+               <Location
+                  uuid = "9D1794C4-C528-4088-8A0C-3C34340A1382 - 50cca5a1f59d3353"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "blueToothMessaging.RecievingViewController.checkIfAlreadyConnected() -&gt; Swift.Bool"
+                  moduleName = "blueToothMessaging"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huge/Documents/Swift%20Extra%20Knowledge/blueToothMessaging/blueToothMessaging/RecievingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "756">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
