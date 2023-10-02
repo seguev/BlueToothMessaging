@@ -1,6 +1,6 @@
 # BlueToothMessaging
 Send and recieve message with CoreBT
 
-https://github.com/seguev/BlueToothMessaging/assets/113590991/5dc37ca3-c8bb-430b-bdac-dfee8679da8a
 
-https://github.com/seguev/BlueToothMessaging/assets/113590991/88f260b6-6b7b-4959-a288-b9d20b588fd6
+![Receiving](https://github.com/seguev/BlueToothMessaging/assets/113590991/e90c6fb9-6807-4aa2-83a1-066b35853a1b)
+![Sending](https://github.com/seguev/BlueToothMessaging/assets/113590991/7664ab3a-16d0-467b-8b48-661dd3f5e0a8)
